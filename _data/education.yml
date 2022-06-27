@@ -1,6 +1,6 @@
 # Degree
-- degree: Full Stack Webdeveloper Nanodegree
-  uni: Udacity
-  year: June, 2014 &mdash; January, 2015
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+- degree: Computer System Engineer
+  uni: National University of South
+  year: February, 2008 &mdash; February, 2015
+  awards: MOUSE SIMULATION INTERFACE USING A WIIMOTE DEVICE AND VOICE RECOGNITION
+  summary: The objective of this document is to present the interface made by using a Wiimote device, which detects the movements of the user's head in order to move the cursor on the computer screen. Basically, the Wiimote device will detect the position of infrared LEDs strategically placed on glasses located on the user's head, to later send the data to our application through a Bluetooth connection. Based on the project code provided by Johnny Chung Lee1 we have made an application which works as an interface between the user and the device. The system was designed to be used by people with some type of physical disability, specifically those who cannot use their upper extremities to move the mouse.
